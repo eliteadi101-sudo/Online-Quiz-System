@@ -1,0 +1,5 @@
+{
+  "name": "Online Quiz System",
+  "stack": "Node.js, Express, vanilla JavaScript",
+  "description": "A timed quiz with randomized question order, scoring, and a results screen."
+}
